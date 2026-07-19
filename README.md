@@ -6,9 +6,7 @@ I build software that turns messy data, manual processes, and operational proble
 
 ## Selected projects
 
-- **[SmartForms](https://github.com/markrusselldev/smartforms)**: WordPress plugin for chatbot-style questionnaires with GPT-powered recommendations.
 - **[Weather Patrol](https://github.com/markrusselldev/weather-patrol)**: Full-stack system for processing Campbell Scientific weather-station data and streaming real-time updates.
-- **[Not Another Theme](https://github.com/markrusselldev/notanothertheme)**: Modern WordPress starter theme built with Vite, `theme.json`, SCSS, and self-hosted web components.
 
 ## Current focus
 
