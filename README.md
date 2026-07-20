@@ -6,7 +6,19 @@ I build software that turns messy data, manual processes, and operational proble
 
 ## Selected projects
 
-- **[Weather Patrol](https://github.com/markrusselldev/weather-patrol)**: Full-stack system for processing Campbell Scientific weather-station data and streaming real-time updates.
+### [Weather Patrol](https://github.com/markrusselldev/weather-patrol)
+
+Completed full-stack system for processing Campbell Scientific weather-station data and streaming real-time updates through a React interface.
+
+### [MARKD](https://github.com/markrusselldev/markd)
+
+React markdown editor with live preview, GitHub-flavored Markdown, syntax highlighting, and file export.  
+[Open the live demo](https://markrusselldev.github.io/markd/)
+
+### [Odin Calc](https://github.com/markrusselldev/odin-calc)
+
+Interactive Norse-themed JavaScript calculator with custom graphics, animated controls, keyboard support, and sound effects.  
+[Open the live demo](https://markrusselldev.github.io/odin-calc/)
 
 ## Current focus
 
