@@ -1,31 +1,35 @@
 # Mark Russell
 
-Software developer focused on data systems, workflow automation, and practical AI for businesses.
+I build data systems, workflow automation, and the WordPress and code underneath them. Twenty years of software that has to keep working outside a demo: point-of-sale systems, venue networks, ski-lift fiber, and the CRM, reporting, and integration code businesses run on.
 
-I build software that turns messy data, manual processes, and operational problems into systems people can actually use. My work spans full-stack development, APIs, reporting, WordPress, automation, and technical operations.
+The bar I hold: simple beats clever, every extra dependency is one more thing that breaks, and if you can't see it, you can't fix it.
 
-## Selected projects
+## Blockwright
+
+A WordPress block theme and two companion plugins, all published on the WordPress.org directory. They ship clean: buildless, GPL, no coding-standards errors on the automated scan. That is the standard I hold on client work.
+
+- **[blockwright](https://github.com/markrusselldev/blockwright):** developer-focused block theme; `theme.json` as the single source of truth. [On WordPress.org](https://wordpress.org/themes/blockwright/)
+- **[blockwright-blocks](https://github.com/markrusselldev/blockwright-blocks):** blocks, a curated icon collection, and dynamic content bindings. [On WordPress.org](https://wordpress.org/plugins/blockwright-blocks/)
+- **[blockwright-workbench](https://github.com/markrusselldev/blockwright-workbench):** developer tools for block themes, in one admin-bar menu, disabled by default outside development. [On WordPress.org](https://wordpress.org/plugins/blockwright-workbench/)
+
+## Projects
 
 ### [Weather Patrol](https://github.com/markrusselldev/weather-patrol)
 
-Completed full-stack system for processing Campbell Scientific weather-station data and streaming real-time updates through a React interface.
+Full-stack system for processing Campbell Scientific weather-station data and streaming real-time updates through a React interface.
+
+## Tools
 
 ### [MARKD](https://github.com/markrusselldev/markd)
 
-React markdown editor with live preview, GitHub-flavored Markdown, syntax highlighting, and file export.  
-[Open the live demo](https://markrusselldev.github.io/markd/)
+React markdown editor with live preview, GitHub-flavored Markdown, syntax highlighting, and file export. [Live demo](https://markrusselldev.github.io/markd/)
+
+## Fun stuff
 
 ### [Odin Calc](https://github.com/markrusselldev/odin-calc)
 
-Interactive Norse-themed JavaScript calculator with custom graphics, animated controls, keyboard support, and sound effects.  
-[Open the live demo](https://markrusselldev.github.io/odin-calc/)
+Norse-themed JavaScript calculator with custom graphics, animated controls, keyboard support, and sound effects. [Live demo](https://markrusselldev.github.io/odin-calc/)
 
-## Current focus
+## Elsewhere
 
-- Data processing and reporting systems
-- Workflow automation and API integrations
-- Practical AI features built into existing business processes
-- Reliable software for real-world operations
-
-Based in Santa Fe, New Mexico  
-[markrussell.io](https://markrussell.io)
+Based in Santa Fe, New Mexico. [markrussell.io](https://markrussell.io)
