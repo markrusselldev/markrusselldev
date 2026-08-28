@@ -1,6 +1,6 @@
 # Mark Russell
 
-I build data systems, workflow automation, and the WordPress and code underneath them. Twenty years from cable to code: the web apps, CRM, reporting, and integration code businesses run on, and the field work that proves it holds up outside a demo, from point-of-sale counters to ski-lift fiber.
+I build data systems, workflow automation, and the WordPress sites and code underneath them. Twenty years from cable to code: the web apps, CRM, reporting, and integration code businesses run on, and the field work that proves it holds up outside a demo, from point-of-sale counters to ski-lift fiber.
 
 The bar I hold: simple beats clever, every extra dependency is one more thing that breaks, and if you can't see it, you can't fix it.
 
